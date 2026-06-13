@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Hoa Thiên Nhi Store",
+  "description": "Website bán dán ti silicone y tế cao cấp Hoa Thiên Nhi phong cách tối giản, tích hợp thanh toán và quản trị đơn hàng",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
